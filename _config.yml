@@ -1,0 +1,28 @@
+name: Silent Happy Dance
+favicon: null
+layout_spectrum: 0.5369301810860634
+typography_spectrum: 0.41988224373199046
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5456618233583868
+  lightness: 0.8580382387153804
+  saturation: 0.9750141075346619
+  rhythmicContrast: 0.5257623696234077
+purpose: []
